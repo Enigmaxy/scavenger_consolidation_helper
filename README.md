@@ -56,4 +56,4 @@ All code has been manually reviewed, but you should still inspect it yourself be
 1. Download or clone this repository.
 2. Make sure the PowerShell script is unblocked:
    ```powershell
-   Unblock-File .\MidnightTool.ps1
+   Unblock-File .\helper.ps1
