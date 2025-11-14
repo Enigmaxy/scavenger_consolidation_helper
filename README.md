@@ -1,6 +1,5 @@
 You need to execute this in Powershell for the tool to work:
-Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
-
+Unblock-File .\helper.ps1
 
 # Midnight Scavenger Consolidation Tool (PowerShell GUI)
 
